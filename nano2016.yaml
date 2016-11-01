@@ -1,8 +1,8 @@
-title: Purgatoire
+title: Nexus
 author: Camille Thomas
 manuscript:
-- title: ""
+- title: "Maîtrise"
   chapters:
   - title: ""
     documents:
-    - docs/chapitre-1.up
+    - chapitre-1.up
