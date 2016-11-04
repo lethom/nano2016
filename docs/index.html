@@ -11,10 +11,19 @@ body {
   font-family: Garamond,Georgia,Times;
 }
 
-.word-count {
+.high {
   border-right:  1px solid #5faf4b;
   border-bottom: 1px solid #5faf4b;
   background: #58b242;
+}
+
+.low {
+  border-right:  1px solid #ba5d00;
+  border-bottom: 1px solid #ba5d00;
+  background: #f79533;
+}
+
+.word-count {
   padding: 3px;
   margin: 0;
   font-size: 0.7em;
@@ -44,6 +53,10 @@ ul {
   -moz-column-count: 2;
   column-count: 2;
 }
+
+li {
+  padding-bottom: 0.5em;
+}
   </style>
 </head>
 <body>
@@ -66,11 +79,16 @@ ul {
 
   <ul>
     <li>
-      <a href="nexus-2.pdf">2 novembre 2016</a> <span
-        class="word-count">+2300</span>
+      <a href="nexus-4.pdf">4 novembre 2016</a> <span
+        class="word-count high">+2000</span>
     </li>
     <li>
-      <a href="nexus-3.pdf">3 novembre 2016</a> <span class="word-count">+600</span>
+      <a href="nexus-3.pdf">3 novembre 2016</a> <span
+        class="word-count low">+600</span>
+    </li>
+    <li>
+      <a href="nexus-2.pdf">2 novembre 2016</a> <span
+        class="word-count high">+2300</span>
     </li>
   </ul>
 </body>
