@@ -3,14 +3,17 @@ author: Camille Thomas
 manuscript:
 - title: "Maîtrise"
   chapters:
-  - title: ""
+  - title: "Anika"
     documents:
     - chapitre-1.up
-  - title: ""
+  - title: "Lys"
     documents:
     - chapitre-2.up
-  - title: ""
+  - title: "Anika"
     documents:
     - chapitre-3-1.up
     - chapitre-3-2.up
     - chapitre-3-3.up
+  - title: "Lys"
+    documents:
+    - chapitre-4.up
