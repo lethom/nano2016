@@ -22,3 +22,8 @@ manuscript:
     documents:
     - chapitre-5.up
     - chapitre-5-2.up
+- title: "L’Ancre"
+  chapters:
+  - title: "Anika"
+    documents:
+    - chapitre-6.up
