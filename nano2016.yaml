@@ -22,6 +22,7 @@ manuscript:
     documents:
     - chapitre-5.up
     - chapitre-5-2.up
+    - chapitre-5-3.up
 - title: "L’Ancre"
   chapters:
   - title: "Anika"
@@ -36,3 +37,9 @@ manuscript:
   - title: "Lys"
     documents:
     - chapitre-9.up
+  - title: "Jharl"
+    documents:
+    - chapitre-10.up
+  - title: "Anika"
+    documents:
+    - chapitre-11.up
